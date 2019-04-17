@@ -1,0 +1,9 @@
+.idea/
+build/
+dist/
+target/
+node_modules/
+
+*.log
+*.ipr
+*.iml

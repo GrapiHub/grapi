@@ -1,0 +1,13 @@
+{
+  "name": "grapi-demo-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "tsc:watch": "tsc --watch"
+  },
+  "dependencies": {
+    "@grapi/core": "^0.0.1"
+  }
+}

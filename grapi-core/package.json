@@ -1,0 +1,14 @@
+{
+  "name": "@grapi/core",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "tsc:watch": "tsc --watch"
+  },
+  "dependencies": {
+    "graphql": "^14.2.1",
+    "graphql-tools": "^4.0.4",
+    "hackablejs": "^1.0.0"
+  }
+}

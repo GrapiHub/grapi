@@ -1,0 +1,12 @@
+{
+  "name": "hackablejs",
+  "version": "1.0.0",
+  "author": "Akter Hossain @akterstack <akterstack@gmail.com>",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "tsc:watch": "tsc --watch"
+  }
+}

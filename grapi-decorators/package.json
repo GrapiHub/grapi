@@ -1,0 +1,10 @@
+{
+  "name": "@grapi/decorators",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "tsc:watch": "tsc --watch"
+  }
+}
